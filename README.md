@@ -1,2 +1,3 @@
 # portfolio-page
-Created HTML and CSS files for main page, contact and portfolio pages
+Created HTML and CSS files for about, contact and portfolio pages
+Added navbar, photo, and paragraphs to about me page

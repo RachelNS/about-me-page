@@ -1,0 +1,8 @@
+body {
+    background-color: yellow;
+}
+
+.col-8 {
+    background-color: purple;
+    margin: 10vh;
+}

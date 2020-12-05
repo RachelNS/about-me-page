@@ -6,3 +6,12 @@ img {
     float: left;
 }
 
+body {
+    background-color: teal;
+}
+
+.col-8 {
+    background-color: purple;
+    color: white;
+    margin-top: 10vh;
+}
