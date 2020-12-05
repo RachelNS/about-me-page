@@ -1,9 +1,10 @@
 h1 {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 img {
-    float: left;
+    float:left;
+    padding-right: 15px;
 }
 
 body {
