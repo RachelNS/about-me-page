@@ -6,3 +6,8 @@ body {
     background-color: purple;
     margin: 10vh;
 }
+
+.nav-link:hover {
+    font-weight: bold;
+    background-color: teal;
+}
