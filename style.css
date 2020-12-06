@@ -1,7 +1,6 @@
 body {
     background-color: teal;
 }
-
 .nav-link, .navbar-brand, h1 {
     font-family: 'Aladin', cursive;
 }
@@ -20,6 +19,9 @@ img {
     background-color: purple;
     color: white;
     margin-top: 10vh;
+    padding: 10px;
+    border: dotted black;
+    border-radius: 50px 15px;
 }
 
 .nav-link:hover {

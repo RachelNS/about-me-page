@@ -1,3 +1,2 @@
 # portfolio-page
-Created HTML and CSS files for about, contact and portfolio pages
-Added navbar, photo, and paragraphs to about me page
+This repository contains folders for all three pages in the homework assignment--About Me, Portfolio, and Contact. I created this before realizing I'd need to create seperate repositories to deploy the Contact and Portfolio pages of the website, so all commits for the entire project live in this repository. 
