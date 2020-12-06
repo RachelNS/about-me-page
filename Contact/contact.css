@@ -1,9 +1,17 @@
 body{
-    background-color: teal;
+    background-color:  rgb(202, 134, 202);
+}
+
+nav {
+    background-color: rgb(248, 239, 239);
 }
 
 .nav-link, .navbar-brand, h2 {
     font-family: 'Aladin', cursive;
+}
+
+.container {
+    margin-left: 2vw;
 }
 
 #name, #email, #example, #form-button {
@@ -11,12 +19,10 @@ body{
 }
 
 .col-8 {
-    background-color: purple;
-    color: white;
+    background-color: rgb(248, 239, 239);
+    color: black;
     margin-top: 10vh;
-    padding: 10px;
-    border: dotted black;
-    border-radius: 50px 15px;
+    padding: 30px;
 }
 
 .nav-link:hover {
@@ -27,12 +33,12 @@ body{
 
 
 #form-button {
-    background-color: teal;
+    background-color: rgb(202, 134, 202);
     color: white;
-    padding: 10px;
+    padding: 20px;
 }
 
 footer {
     background-color: white;
-    color: teal;
+    color: rgb(202, 134, 202); 
 }

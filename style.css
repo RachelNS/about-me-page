@@ -1,8 +1,17 @@
 body {
-    background-color: teal;
+    background-color: rgb(202, 134, 202);
 }
+
+nav {
+    background-color: rgb(248, 239, 239);
+}
+
 .nav-link, .navbar-brand, h1 {
     font-family: 'Aladin', cursive;
+}
+
+.container {
+    margin-left: 2vw;
 }
 
 p{
@@ -16,17 +25,15 @@ img {
 }
 
 .col-8 {
-    background-color: purple;
-    color: white;
+    background-color: rgb(248, 239, 239);
+    color: black;
     margin-top: 10vh;
-    padding: 10px;
-    border: dotted black;
-    border-radius: 50px 15px;
+    padding: 20px;
 }
 
 .nav-link:hover {
     font-weight: bold;
-    background-color: teal;
+    background-color: rgb(202, 134, 202); 
 }
 
 
