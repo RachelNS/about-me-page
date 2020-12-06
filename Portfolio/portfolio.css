@@ -2,6 +2,11 @@ body {
     background-color: yellow;
 }
 
+
+.nav-link, .navbar-brand, h1 {
+    font-family: 'Aladin', cursive;
+}
+
 .col-8 {
     background-color: purple;
     margin: 10vh;

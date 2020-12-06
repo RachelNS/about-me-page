@@ -2,6 +2,14 @@ body{
     background-color: teal;
 }
 
+.nav-link, .navbar-brand, h2 {
+    font-family: 'Aladin', cursive;
+}
+
+#name, #email, #example, #form-button {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
 .col-8 {
     margin-top: 10vh;
     background-color: white;

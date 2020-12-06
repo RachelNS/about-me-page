@@ -1,14 +1,19 @@
-h1 {
-    margin-top: 10px;
+body {
+    background-color: teal;
 }
+
+.nav-link, .navbar-brand, h1 {
+    font-family: 'Aladin', cursive;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
 
 img {
     float:left;
     padding-right: 15px;
-}
-
-body {
-    background-color: teal;
 }
 
 .col-8 {
@@ -21,3 +26,5 @@ body {
     font-weight: bold;
     background-color: teal;
 }
+
+
