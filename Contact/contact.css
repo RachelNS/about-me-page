@@ -42,3 +42,11 @@ footer {
     background-color: white;
     color: rgb(202, 134, 202); 
 }
+
+@media screen and (max-width: 400px) {
+    .col-8 {
+        position: fixed;
+        width: 100vw;
+    }
+
+}

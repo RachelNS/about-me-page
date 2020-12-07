@@ -36,4 +36,18 @@ img {
     background-color: rgb(202, 134, 202); 
 }
 
+@media screen and (max-width: 400px) {
+   .col-8 {
+       display: flex;
+       justify-content: center;
+   }
+   
+    #content {
+        position: fixed;
+    }
+
+
+}
+
+
 
