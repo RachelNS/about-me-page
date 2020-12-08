@@ -1,41 +1,48 @@
+/* Sets the background color for the whole page to teal */
 body{
     background-color:  teal;
 }
 
+/* Sets the background and text color for navbar and links */
 nav {
     background-color: rgb(248, 239, 239);
+    color: black;
 }
 
+/* Sets the font for navbar links and main heading */
 .nav-link, .navbar-brand, h2 {
     font-family: 'Aladin', cursive;
 }
 
-.container {
-    margin-left: 2vw;
-}
-
-#name, #email, #example, #form-button {
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-.col-8 {
-    background-color: rgb(248, 239, 239);
-    color: black;
-    margin-top: 10vh;
-    padding: 30px;
-}
-
+/* Styles the navbar links when user hovers over them */
 .nav-link:hover {
     font-weight: bold;
     background-color: teal;
 }
 
+/* Sets the font for the form entry fields */
+#name, #email, #example, #form-button {
+    font-family: 'Josefin Sans', sans-serif;
+}
 
+/* Sets background and text color for the contact form, padding keeps button from overflowing */
+.col-md-8 {
+    background-color: rgb(248, 239, 239);
+    color: black;
+    padding: 30px;
+}
 
+/* Sets background color, text color, and padding for button */
 #form-button {
     background-color: teal;
     color: white;
     padding: 20px;
 }
 
-
+/* Fixes content overflow and centers main content on small screens */
+@media screen and (max-width: 400px) {
+    .col-md-8 {
+        width: 90vw;
+        margin: 0 auto;
+    }
+}

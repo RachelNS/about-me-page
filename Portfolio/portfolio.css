@@ -1,37 +1,34 @@
+/* Sets the background color for the whole page to teal */
 body {
     background-color: teal;   
 }
 
-nav {
+/* Sets the background and text color for the navbar and main section*/
+nav, .col-md-8 {
     background-color: rgb(248, 239, 239);
+    color: black;
 }
 
+/* Sets the font for navbar links and main heading */
 .nav-link, .navbar-brand, h1 {
     font-family: 'Aladin', cursive;
 }
 
-.container {
-    margin-left: 2vw;
-}
-
-.col-8 {
-    background-color:rgb(248, 239, 239);
-    color: black;
-    margin-top: 50px;
-    padding: 20px;
-}
-
-img .row {
-    height: 30%;
-    width: 45%;
-}
-
+/* Styles the navbar links when user hovers over them */
 .nav-link:hover {
     font-weight: bold;
     background-color: teal; 
 }
 
+/* Creates space between images */
 img{
     padding: 10px;
 }
 
+/* Fixes content overflow and centers main content on small screens */
+@media screen and (max-width: 400px) {
+    .col-md-8 {
+        width: 90vw;
+        margin: 0 auto;
+    }
+}
