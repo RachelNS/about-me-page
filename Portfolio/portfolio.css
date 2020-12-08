@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(202, 134, 202);   
+    background-color: teal;   
 }
 
 nav {
@@ -17,7 +17,7 @@ nav {
 .col-8 {
     background-color:rgb(248, 239, 239);
     color: black;
-    margin-top: 10vh;
+    margin-top: 50px;
     padding: 20px;
 }
 
@@ -28,9 +28,10 @@ img .row {
 
 .nav-link:hover {
     font-weight: bold;
-    background-color: rgb(202, 134, 202); 
+    background-color: teal; 
 }
 
 img{
     padding: 10px;
 }
+

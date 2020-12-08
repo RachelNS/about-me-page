@@ -1,5 +1,5 @@
 body{
-    background-color:  rgb(202, 134, 202);
+    background-color:  teal;
 }
 
 nav {
@@ -33,20 +33,9 @@ nav {
 
 
 #form-button {
-    background-color: rgb(202, 134, 202);
+    background-color: teal;
     color: white;
     padding: 20px;
 }
 
-footer {
-    background-color: white;
-    color: rgb(202, 134, 202); 
-}
 
-@media screen and (max-width: 400px) {
-    .col-8 {
-        position: fixed;
-        width: 100vw;
-    }
-
-}
