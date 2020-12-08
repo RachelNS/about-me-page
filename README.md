@@ -1,2 +1,3 @@
 # portfolio-page
-This repository contains folders for all three pages in the homework assignment--About Me, Portfolio, and Contact. I created this before realizing I'd need to create seperate repositories to deploy the Contact and Portfolio pages of the website, so all commits for the entire project live in this repository. 
+Created pages using Boostrap grid, navbar, and responsive image components
+Encountered difficulty using media queries to make the whole page responsive
