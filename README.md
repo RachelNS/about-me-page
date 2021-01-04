@@ -1,3 +1,2 @@
 # portfolio-page
-Created pages using Boostrap grid, navbar, and responsive image components
-Encountered difficulty using media queries to make the whole page responsive
+Created pages using Boostrap grid, navbar, and responsive image components. Used Boostrap classes to help content display correctly on small, medium, and large screens. Limited use of media queries to fix minor content overflow on smallest screen sizes.
