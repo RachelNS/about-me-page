@@ -21,7 +21,7 @@ nav, .col-md-8 {
 }
 
 /* Sets the font for main paragraphs */
-p{
+p, h3{
     font-family: 'Josefin Sans', sans-serif;
 }
 
