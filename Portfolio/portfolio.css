@@ -20,6 +20,11 @@ nav, .col-md-8 {
     background-color: teal; 
 }
 
+/* Sets the font for main paragraphs */
+p{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
 /* Creates space between images */
 img{
     padding: 10px;
