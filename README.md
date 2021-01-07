@@ -2,7 +2,7 @@
 
 A mobile-responsive portfolio telling the world a little about me, and a lot about my work thus far in my journey as a web developer.
 
-[Deployed on Github Pages](#)
+[Deployed on Github Pages](https://rachelns.github.io/portfolio-page/)
 
 ## Usage
 
