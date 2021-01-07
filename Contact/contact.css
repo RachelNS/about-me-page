@@ -1,6 +1,7 @@
 /* Sets the background color for the whole page to teal */
 body{
-    background-image: url(Images/space.jpg);
+    background-image: url(../Images/space.jpg);
+    background-size: 100%;
 }
 
 /* Sets the background and text color for navbar and links */
