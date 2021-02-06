@@ -2,7 +2,7 @@
 
 A mobile-responsive portfolio telling the world a little about me, and a lot about my work thus far in my journey as a web developer.
 
-[Deployed on Github Pages](#)
+[Deployed on Github Pages](https://shame-wizards-apprentice.github.io/portfolio-page/)
 
 ## Usage
 
@@ -20,4 +20,5 @@ The Main Event
 ## Built With
 
 *[Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - CSS Framework Used
+
 *[Google Fonts](https://fonts.google.com/) - Source for all fonts
